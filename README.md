@@ -28,6 +28,5 @@
 * [finoa0317](https://finoa0317.github.io/web2)
 * [0410MikaP](https://0410MikaP.github.io/web2)
 * [Yossoy079](https://Yossoy079.github.io/web2-15)
-* [wta1ss](https://wta1ss.github.io/web2)
 * [i-takabe](https://i-takabe.github.io/web2-14)
 * [soisausem](https://soisausem.github.io/web2)
