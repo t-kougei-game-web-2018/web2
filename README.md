@@ -10,7 +10,6 @@
 * [kogaryo](https://kogaryo.github.io/web2-14)
 * [subaru0925](https://subaru0925.github.io/web2-14)
 * [sato-soma](https://sato-soma.github.io/web2-14)
-* [kougei-kyabehyon](https://kougei-kyabehyon.github.io/web2)
 * [sugi-yamato](https://sugi-yamato.github.io/web2)
 * [nao74](https://nao74.github.io/web2)
 * [g1727044](https://g1727044.github.io/web2)
