@@ -9,7 +9,6 @@
 * [koki1124](https://koki1124.github.io/web2)
 * [kogaryo](https://kogaryo.github.io/web2-14)
 * [subaru0925](https://subaru0925.github.io/web2-14)
-* [komatsuzakiyuma](https://komatsuzakiyuma.github.io/web2)
 * [sato-soma](https://sato-soma.github.io/web2-14)
 * [kougei-kyabehyon](https://kougei-kyabehyon.github.io/web2)
 * [sugi-yamato](https://sugi-yamato.github.io/web2)
